@@ -3,7 +3,7 @@ layout: default
 comments: true
 # other options
 ---
-## Creazione blog in pages
+## Creazione del blog in Github Pages con Jekyll
 
 Prima di tutto ho seguito la guida github, creato il repository [http://vDallAcqua.github.io](http://vDallAcqua.github.io) e questo diventerà il sito vero e proprio del blog.
 Il branch master è quello che viene usato per la pubblicazione.
@@ -26,7 +26,4 @@ gem install bundler
 Ho fatto anche il primo `bundle update` anche perchè il "Gemfile" mi include la gem `paginate`. Si è installata con l'update per cui funziona proprio tutto.
 Adesso qualche sistemazione ulteriore, tipo l'aggiunta dei commenti disqus ecc. ed è fatto. 
 
-
-
-
-
+E quindi: Hello World!
