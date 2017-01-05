@@ -1,3 +1,8 @@
+---
+layout: default
+comments: true
+# other options
+---
 ## Creazione blog in pages
 
 Prima di tutto ho seguito la guida github, creato il repository http://vDallAcqua.github.io e questo diventerà il sito vero e proprio del blog.
@@ -18,7 +23,7 @@ gem uninstall rubygems-update
 gem install bundler
 ```
 
-Ho fatto anche il primo `bundle update` anche perchè il "Gemfile" mi include la gem `paginate`. Si è installata per cui funziona proprio tutto.
+Ho fatto anche il primo `bundle update` anche perchè il "Gemfile" mi include la gem `paginate`. Si è installata con l'update per cui funziona proprio tutto.
 Adesso qualche sistemazione ulteriore, tipo l'aggiunta dei commenti disqus ecc. ed è fatto. 
 
 
