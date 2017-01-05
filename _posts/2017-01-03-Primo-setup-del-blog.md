@@ -5,7 +5,7 @@ comments: true
 ---
 ## Creazione blog in pages
 
-Prima di tutto ho seguito la guida github, creato il repository http://vDallAcqua.github.io e questo diventerà il sito vero e proprio del blog.
+Prima di tutto ho seguito la guida github, creato il repository [http://vDallAcqua.github.io](http://vDallAcqua.github.io) e questo diventerà il sito vero e proprio del blog.
 Il branch master è quello che viene usato per la pubblicazione.
 
 Per installare un tema di pages devo installare in locale jekyll. Per questo ho, via chocolatey che è veramente bello e nuovo, fatto da cmd prompt (amministrativo):
@@ -15,7 +15,7 @@ Per installare un tema di pages devo installare in locale jekyll. Per questo ho,
 choco install ruby -y
 ```
 
-Download di rubygems aggiornato e anche il certificato da copiare nella installazione di rubygems da http://guides.rubygems.org/ssl-certificate-update/#installing-using-update-packages, prompt comandi:
+Download di rubygems aggiornato e anche il certificato da copiare nella installazione di rubygems da [qui](http://guides.rubygems.org/ssl-certificate-update/#installing-using-update-packages), prompt comandi:
 
 ```shell_session
 gem install --local rubygems-update-2.6.7.gem
