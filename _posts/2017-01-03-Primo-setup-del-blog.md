@@ -23,6 +23,9 @@ gem uninstall rubygems-update
 gem install bundler
 ```
 
+
+Come tema ho scelto il [beautiful Jekyll](https://github.com/daattali/beautiful-jekyll#readme) fra i tanti. Ho seguito le istruzioni del readme, che essenzialmente ti dicono di prendere tutti i files del tema e copiarli pari pari sul tuo sito pages. Il modo più semplice di farlo è fare un fork del progetto originale su github al link precedente. Ci si trova con un sito che è una replica esatta del tema e che poi in modo abbastanza veloce si può adattare alle proprie esigenze.
+
 Ho fatto anche il primo `bundle update` anche perchè il "Gemfile" mi include la gem `paginate`. Si è installata con l'update per cui funziona proprio tutto.
 Adesso qualche sistemazione ulteriore, tipo l'aggiunta dei commenti disqus ecc. ed è fatto. 
 
